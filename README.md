@@ -1,0 +1,2 @@
+# flux
+Demo for fluxcd
